@@ -1514,6 +1514,12 @@ Noida
 - Bio: Graduated in CS, Full Stack Javascript Consultant/Freelancer, Founder of Ampliee.com, Tech Enthusiast
 - Github: [Mateus Machado](https://github.com/mateusfmachado)
 
+  
+#### Name: Nauman Tamboli
+ - Place: Pune, Maharashtra, India
+ - Bio: third year Computer Science Student
+ - GitHub: [Naumantamboli](https://github.com/Naumantamboli)
+
 #### Name: [Matheus Lucena](https://github.com/matehuslucena)
 - Place: Brazil
 - Bio: Software Engineer
